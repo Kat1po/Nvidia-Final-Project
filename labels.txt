@@ -1,0 +1,7 @@
+asteroid
+black hole
+comet
+constellation
+nebula
+planet
+star
